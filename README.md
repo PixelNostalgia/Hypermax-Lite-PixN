@@ -1,4 +1,4 @@
-# Hypermax Plus PixN v2
+# Hypermax Lite PixN
 
 
 <p>
