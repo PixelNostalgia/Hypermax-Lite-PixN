@@ -76,7 +76,7 @@
 	  <image name="logoz" extra="true">
 		<pos>0.01 0.95</pos>
 		<maxSize>0.035 0.035</maxSize>
-		<color>ffffff33</color>
+		<color>ffffff</color>
 		<path>./_inc/logoz.png</path>
 		<zIndex>999</zIndex>
 	  </image>
